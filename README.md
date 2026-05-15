@@ -14,7 +14,7 @@ Passionate about building scalable web applications, secure backend systems, and
 
 - 💻 Full Stack Developer specializing in the **MERN Stack**
 - 🌱 Currently learning **Machine Learning & Data Analytics**
-- 🔐 Interested in **Authentication Systems & Backend Development**
+- 🔐 Interested in **Backend Development & Authentication Systems**
 - 📊 Exploring **Python, AI, and Real-Time Applications**
 - 🚀 Love building real-world and production-ready projects
 
@@ -63,18 +63,6 @@ A modern social media platform with:
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pankajgoswamii&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pankajgoswamii" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p>
@@ -94,5 +82,5 @@ A modern social media platform with:
 ---
 
 <p align="center">
-✨ “Code. Learn. Build. Repeat.” ✨
+✨ Code • Learn • Build • Repeat ✨
 </p>
